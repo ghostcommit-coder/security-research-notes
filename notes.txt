@@ -1,0 +1,8 @@
+So you followed the breadcrumbs.
+
+I told you I didn't delete the evidence.
+I only hid it where most people don't look.
+
+The first commit was always the truth.
+
+FLAG{first_commit_never_lies}
