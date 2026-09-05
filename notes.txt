@@ -1,8 +1,11 @@
-So you followed the breadcrumbs.
+Security Research Notes
+=======================
 
-I told you I didn't delete the evidence.
-I only hid it where most people don't look.
+Things worth remembering while learning security.
 
-The first commit was always the truth.
+- Check assumptions.
+- Keep useful references.
+- Document interesting findings.
+- Sometimes old notes are more useful than cleaned-up ones.
 
-FLAG{first_commit_never_lies}
+The original scratch notes were cleaned up during the first pass.
